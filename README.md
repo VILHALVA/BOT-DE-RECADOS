@@ -1,4 +1,10 @@
 # BOT DE RECADOS
+[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
+[![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=)
+
+<img src="https://smartbotsland.com/bots/wp-content/uploads/2022/07/Subscription-Bot.png" align="center" width="280"> <br>
+
+## DESCRIÇÃO:
 Esse é um aplicativo desenvolvido em Python utilizando a biblioteca gráfica Tkinter e a biblioteca de bot do Telegram, chamada Telebot. Este bot oferece uma interface gráfica simples e intuitiva para os usuários enviarem mensagens ou mídias para grupos ou canais no Telegram de forma rápida e eficiente.
 
 ## Recursos Principais:
