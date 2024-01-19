@@ -1,4 +1,6 @@
 # BOT DE RECADOS
+🎈ENVIE SEUS RECADOS PARA SEU GRUPO OU CANAL VIA BOT DO TELEGRAM.
+
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/CURSO%20DE-TELEGRAM%20BOT-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-TELEGRAM-BOT)
 
