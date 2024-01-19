@@ -2,7 +2,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/CURSO%20DE-TELEGRAM%20BOT-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-TELEGRAM-BOT)
 
-<img src="https://smartbotsland.com/bots/wp-content/uploads/2022/07/Subscription-Bot.png" align="center" width="280"> <br>
+<img src="FOTO.png" align="center" width="300"> <br>
 
 ## DESCRIÇÃO:
 Esse é um aplicativo desenvolvido em Python utilizando a biblioteca gráfica Tkinter e a biblioteca de bot do Telegram, chamada Telebot. Este bot oferece uma interface gráfica simples e intuitiva para os usuários enviarem mensagens ou mídias para grupos ou canais no Telegram de forma rápida e eficiente.
