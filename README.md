@@ -1,7 +1,9 @@
 # BOT DE RECADOS
 🛑ENVIE SEUS RECADOS PARA SEU GRUPO OU CANAL VIA BOT DO TELEGRAM.
 
-<img src="FOTO.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_3.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 Esse é um aplicativo desenvolvido em Python utilizando a biblioteca gráfica Tkinter e a biblioteca de bot do Telegram, chamada Telebot. Este bot oferece uma interface gráfica simples e intuitiva para os usuários enviarem mensagens ou mídias para grupos ou canais no Telegram de forma rápida e eficiente.
